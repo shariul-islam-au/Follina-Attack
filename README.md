@@ -1,7 +1,4 @@
 # MS-MSDT "Follina" Attack Vector
-
-> John Hammond | May 30, 2022
-
 --------------
 
 Create a "Follina" MS-MSDT attack with a malicious Microsoft Word document and stage a payload with an HTTP server.
