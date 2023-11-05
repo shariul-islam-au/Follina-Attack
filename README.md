@@ -15,7 +15,7 @@ options:
   --command COMMAND, -c COMMAND
                         command to run on the target (default: calc)
   --output OUTPUT, -o OUTPUT
-                        output maldoc file (default: ./follina.doc)
+                        output maldoc file (default: ./Payment.docx)
   --interface INTERFACE, -i INTERFACE
                         network interface or IP address to host the HTTP server (default: eth0)
   --port PORT, -p PORT  port to serve the HTTP server (default: 8000)
